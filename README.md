@@ -38,9 +38,9 @@ The School Management System is a web-based application built using the MERN (Mo
 
 # Installation
 
-```sh
-for running project in vscode
-```
+
+for running project in vscode ....
+
 Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
@@ -62,6 +62,5 @@ The Backend API will be running at `localhost:5000`.
 <br>
 
 # Deployment
-* Render - server side
 * Netlify - client side
 
